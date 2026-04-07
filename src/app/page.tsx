@@ -67,7 +67,7 @@ export default function LandingPage() {
           handle: "@cliente",
           testimonial: "La jefa (Leo) es majísima y agradable, y siempre que vas con algún problema te lo soluciona seguro.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/repairing-tools-equipment_1170-2529.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/repairing-tools-equipment_1170-2529.jpg?_wi=1",
           imageAlt: "ferretería tradicional local interior estanterías",
         },
         {
@@ -75,7 +75,7 @@ export default function LandingPage() {
           handle: "@cliente",
           testimonial: "La mejor ferretería del pueblo. La Leo es la mejor, te da solución para todo.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-couple-construction-worker-uniform-cap-looking-each-other-unpleased-girl-holding-pencil-clipboard-touching-head-with-pencil-concerned-guy-keeping-hand-head_141793-78872.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-couple-construction-worker-uniform-cap-looking-each-other-unpleased-girl-holding-pencil-clipboard-touching-head-with-pencil-concerned-guy-keeping-hand-head_141793-78872.jpg?_wi=1",
           imageAlt: "dueña ferretería experta sonriendo",
         },
         {
@@ -109,7 +109,7 @@ export default function LandingPage() {
           href: "tel:936915503",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/repairing-tools-equipment_1170-2529.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/repairing-tools-equipment_1170-2529.jpg?_wi=2"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -167,7 +167,7 @@ export default function LandingPage() {
       description="Ferretería Murillo es un negocio de barrio con alma. Nuestra dueña, Leo, es experta en bricolaje y siempre está lista para darte ese consejo experto que necesitas para tus reparaciones en el hogar."
       subdescription="No solo vendemos productos, ofrecemos soluciones prácticas, cercanas y siempre con una sonrisa."
       icon={Users}
-      imageSrc="http://img.b2bpic.net/free-photo/young-couple-construction-worker-uniform-cap-looking-each-other-unpleased-girl-holding-pencil-clipboard-touching-head-with-pencil-concerned-guy-keeping-hand-head_141793-78872.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/young-couple-construction-worker-uniform-cap-looking-each-other-unpleased-girl-holding-pencil-clipboard-touching-head-with-pencil-concerned-guy-keeping-hand-head_141793-78872.jpg?_wi=2"
       mediaAnimation="blur-reveal"
     />
   </div>
