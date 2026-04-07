@@ -167,7 +167,7 @@ export default function LandingPage() {
       description="Ferretería Murillo es un negocio de barrio con alma. Nuestra dueña, Leo, es experta en bricolaje y siempre está lista para darte ese consejo experto que necesitas para tus reparaciones en el hogar."
       subdescription="No solo vendemos productos, ofrecemos soluciones prácticas, cercanas y siempre con una sonrisa."
       icon={Users}
-      imageSrc="http://img.b2bpic.net/free-photo/young-couple-construction-worker-uniform-cap-looking-each-other-unpleased-girl-holding-pencil-clipboard-touching-head-with-pencil-concerned-guy-keeping-hand-head_141793-78872.jpg?_wi=2"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1D6Oian3FjN3I4Y1dCNusDe5v/uploaded-1775545203454-z5oj4c92.png"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -208,7 +208,7 @@ export default function LandingPage() {
       <FaqSplitText
       useInvertedBackground={false}
       sideTitle="Preguntas frecuentes"
-      sideDescription="Respondemos a las dudas más comunes de nuestros clientes en Cerdanyola."
+      sideDescription="Respondemos a las dudas más comunes de nuestros clientes."
       faqsAnimation="slide-up"
       faqs={[
         {
