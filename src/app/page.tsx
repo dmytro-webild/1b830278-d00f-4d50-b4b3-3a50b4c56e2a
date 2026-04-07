@@ -163,8 +163,9 @@ export default function LandingPage() {
       <TestimonialAboutCard
       useInvertedBackground={false}
       tag="Sobre nosotros"
-      title="Atención humana en Cerdanyola"
-      description="Ferretería Murillo es un negocio de barrio con alma. Nuestra dueña, Leo, es experta en bricolaje y siempre está lista para darte ese consejo experto que necesitas para tus reparaciones en el hogar."
+      title="Atención cercana en Cerdanyola"
+      description="Ferretería Murillo es un negocio de barrio con alma. 
+Nuestra dueña, Leo, es experta en bricolaje y siempre está lista para darte ese consejo experto que necesitas para tus reparaciones en el hogar."
       subdescription="No solo vendemos productos, ofrecemos soluciones prácticas, cercanas y siempre con una sonrisa."
       icon={Users}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C1D6Oian3FjN3I4Y1dCNusDe5v/uploaded-1775545203454-z5oj4c92.png"
