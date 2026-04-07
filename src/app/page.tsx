@@ -109,7 +109,7 @@ export default function LandingPage() {
           href: "tel:936915503",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/repairing-tools-equipment_1170-2529.jpg?_wi=2"
+      imageSrc="http://img.b2bpic.net/free-photo/greyscale-modern-architecture-lights_181624-27819.jpg?id=12328173"
       mediaAnimation="slide-up"
       avatars={[
         {
