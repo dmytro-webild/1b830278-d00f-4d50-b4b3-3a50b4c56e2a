@@ -269,7 +269,7 @@ También puedes contactar por WhatsApp en el 936 915 503."
   <div id="footer" data-section="footer">
       <FooterCard
       logoText=""
-      copyrightText="© 2024 Ferretería Murillo"
+      copyrightText="© 2026 Ferretería Murillo"
     />
   </div>
       </ReactLenis>
