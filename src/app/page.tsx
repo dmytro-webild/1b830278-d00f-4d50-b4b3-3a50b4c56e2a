@@ -246,7 +246,12 @@ export default function LandingPage() {
       background={{
         variant: "plain",
       }}
-      text="Ven a visitarnos en Passatge de l'Ajuntament, 9, 08290 Cerdanyola del Vallès. Estamos aquí para ayudarte de lunes a sábado. También puedes contactar por WhatsApp en el 936 915 503."
+      text="Ven a visitarnos en:
+ Passatge de l'Ajuntament, 9, 08290 Cerdanyola del Vallès.
+
+Estamos aquí para ayudarte de lunes a sábado. 
+
+También puedes contactar por WhatsApp en el 936 915 503."
       buttons={[
         {
           text: "WhatsApp",
